@@ -59,4 +59,18 @@
 
 ```
 #### Reversed Lower-right-angle-Triangle of stars
+<br/>
+
+ ### 6. Pattern-6
+ 
+ ```  
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+
+```
+#### Triangle of Stars
+
 
