@@ -37,11 +37,13 @@
  ### 4. Pattern-4
  
  ```  
-        * 
-      * * 
-    * * * 
-  * * * * 
-* * * * * 
+ 
+         * 
+       * * 
+     * * * 
+   * * * * 
+ * * * * * 
+
 ```
 #### Lower-right-angle-Triangle of stars
 
