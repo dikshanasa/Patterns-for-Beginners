@@ -46,4 +46,17 @@
 
 ```
 #### Lower-right-angle-Triangle of stars
+<br/>
+
+ ### 5. Pattern-5
+ 
+ ```  
+* * * * * 
+  * * * * 
+    * * * 
+      * * 
+        * 
+
+```
+#### Reversed Lower-right-angle-Triangle of stars
 
