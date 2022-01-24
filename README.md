@@ -20,3 +20,16 @@
 * * * * *
 ```
 #### Right-angle-Triangle of Stars
+<br/>
+
+ ### 3. Pattern-3
+ 
+ ```
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+```
+#### Reversed-right-angle-Triangle of Stars
+
