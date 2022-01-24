@@ -72,5 +72,19 @@
 
 ```
 #### Triangle of Stars
+<br/>
+
+ ### 7. Pattern-7
+ 
+ ```  
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     *  
+
+```
+#### Reversed Triangle of Stars
+
 
 
