@@ -32,4 +32,16 @@
 * 
 ```
 #### Reversed-right-angle-Triangle of Stars
+<br/>
+
+ ### 4. Pattern-4
+ 
+ ```  
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * 
+```
+#### Lower-right-angle-Triangle of stars
 
